@@ -16,3 +16,8 @@
 🥺 🦁 🚣
 
 ## Tables
+
+|Names|Class|
+|---:|:---:| 
+|Thomas|Class 1|
+|Anna|Class 2|

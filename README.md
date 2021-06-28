@@ -19,11 +19,11 @@
 
 |Names|Class|
 |---:|:---:| 
-|Thomas 😧|Class 1|
-|Anna 😅|Class 2|
-|Rose 😉|Class 3|
-|Robert 😋|Class 4|
-|Luke 🤣|Class 5|
+|Thomas 😃|Class 1| Age: 20|
+|Anna 😅|Class 2| Age: 25|
+|Rose 😉|Class 3| Age: 30|
+|Robert 😋|Class 4| Age: 35|
+|Luke 🤣|Class 5| Age: 40|
 
 
 

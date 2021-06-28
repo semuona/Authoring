@@ -18,7 +18,7 @@
 ## Tables
 
 |Names|Class|Age|
-|---:|:---:| 
+|---:|:---:|:---:|
 |Thomas 😃|Class 1|Age: 20|
 |Anna 😅|Class 2|Age: 25|
 |Rose 😉|Class 3|Age: 30|

@@ -22,7 +22,7 @@
 |Thomas|Class 1|
 |Anna|Class 2|
 
-- [x] [External Link](External-link)
+- [x] [External Link](#External-link)
 - [x] Internal link
 - [x] Images
 - [x] Emojis

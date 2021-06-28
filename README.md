@@ -23,7 +23,7 @@
 |Anna|Class 2|
 
 - [x] [External Link](#External-link)
-- [x] Internal link
-- [x] Images
-- [x] Emojis
-- [x] Tables
+- [x] [Internal link](#Internal link)
+- [x] [Images](#Images)
+- [x] [Emojis](#Emojis)
+- [x] [Tables](#Tables)

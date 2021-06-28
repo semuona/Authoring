@@ -4,7 +4,7 @@
 [External link](https://help.github.com/en)
 
 ## Internal link
-[Image folder](#logos)
+[Image folder](#./logos)
 
 ## Images
 ![Google](./logos/googlelogo.png) 

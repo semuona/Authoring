@@ -5,7 +5,13 @@
 
 ## Internal link
 [Image folder](#logos)
+
 ## Images
+![Google](./logos/googlelogo.png) 
+
+![McDonalds](.logos/mcd.jpeg) 
+
+![Lego](./logos/lego.png) 
 
 ## Emojis
 

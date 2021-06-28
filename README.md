@@ -21,3 +21,9 @@
 |---:|:---:| 
 |Thomas|Class 1|
 |Anna|Class 2|
+
+- [x] External Link
+- [x] Internal link
+- [x] Images
+- [x] Emojis
+- [x] Tables

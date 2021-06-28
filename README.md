@@ -1,7 +1,7 @@
 # Github Flavoured Markdown
 
 ## External link
-[External link. CLICK HERE](https://help.github.com/en){:target="_blank"}
+[External link. CLICK HERE](https://help.github.com/en)
 
 ## Internal link
 [Image folder. CLICK HERE](./logos)
